@@ -1,0 +1,28 @@
+{
+  "name": "opencode-ask",
+  "version": "1.1.0",
+  "description": "Ask Agent for OpenCode — Q&A about your codebase, inspired by GitHub Copilot's /ask",
+  "main": "ask.js",
+  "files": [
+    "ask.js",
+    "README.md"
+  ],
+  "type": "module",
+  "keywords": [
+    "opencode",
+    "plugin",
+    "ask",
+    "qna",
+    "code-review"
+  ],
+  "license": "MIT",
+  "author": "RASHEEM",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MRZ07/ask.git"
+  },
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org",
+    "access": "public"
+  }
+}
